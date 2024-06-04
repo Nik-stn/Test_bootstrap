@@ -78,7 +78,7 @@ footer {
 }
 
 /* About */
-.about, .schedule {
+.about, .schedule, .author {
     background-color: #eee;
 }
 
@@ -130,6 +130,15 @@ footer {
 .learning h5 {
     border: 3px solid var(--color1);
     padding: 25px;
+}
+
+/* Author */
+.author {
+    padding-bottom: 0;
+}
+
+.itd_img {
+    max-width: 260px;
 }
 
 
