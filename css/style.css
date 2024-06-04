@@ -141,6 +141,12 @@ footer {
     max-width: 260px;
 }
 
+/* Review */
+.review-img {
+    border-radius: 50%;
+    border: 3px solid var(--color1);
+}
+
 
 /* Color text and background */
 .color1 {
